@@ -1,37 +1,34 @@
-# Budget Tracker
-  ## Description
-  A PWA that keeps track of your budget with a nice graph and offline functionality.
-  ## Table of Contents
-  * [Installation](#installation)
-  * [License](#license)
-  ## Installation
-  Website is deployed at: https://cryptic-refuge-11081.herokuapp.com/ click the download button in the toolbar
-  ## License
-  Unlicensed
-  This is free and unencumbered software released into the public domain.
-    Anyone is free to copy, modify, publish, use, compile, sell, or
-    distribute this software, either in source code form or as a compiled
-    binary, for any purpose, commercial or non-commercial, and by any
-    means.
-    
-    In jurisdictions that recognize copyright laws, the author or authors
-    of this software dedicate any and all copyright interest in the
-    software to the public domain. We make this dedication for the benefit
-    of the public at large and to the detriment of our heirs and
-    successors. We intend this dedication to be an overt act of
-    relinquishment in perpetuity of all present and future rights to this
-    software under copyright law.
-    
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-    EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-    IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-    OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-    ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-    OTHER DEALINGS IN THE SOFTWARE.
-    
-    For more information, please refer to [Unlicense.org](https://unlicense.org)
-  ## Questions
-  Author: [Thomas Kubant](https://github.com/ThomasKubant)
-  Github: [undefined](https://github.com/ThomasKubant)
-  Email: [thomaskubant@gmail.com](mailto:thomaskubant@gmail.com)
+<h1 align="center">Welcome to Budget Tracker 👋</h1>
+<p>
+  <a href="https://github.com/coding-boot-camp/unit18hw/graphs/commit-activity" target="_blank">
+    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+  </a>
+  <a href="#" target="_blank">
+    <img alt="License: Unlicensed" src="https://img.shields.io/github/license/ThomasKubant/Budget Tracker" />
+  </a>
+</p>
+
+> A simple progressive web application that keeps track of your budget. Features a neat graph to display information and offers offline functionality.
+
+### 🏠 [Homepage](https://cryptic-refuge-11081.herokuapp.com/)
+
+## Usage
+
+```sh
+Visit https://cryptic-refuge-11081.herokuapp.com/ and easily add or subtract from your budget. Information is displayed on a graph that helps visualize the history of your budget. You can even download the app by clicking the download button on the right side of your URL bar in the browser.
+```
+
+## Author
+
+👤 **Thomas Kubant**
+
+* Website: https://thomaskubant.github.io/react-portfolio/
+* Github: [@ThomasKubant](https://github.com/ThomasKubant)
+* LinkedIn: [@ThomasKubant](https://linkedin.com/in/ThomasKubant)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
